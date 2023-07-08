@@ -2,7 +2,8 @@
 
 <video src="https://res.cloudinary.com/dwdkfnsrg/video/upload/v1688786588/nxtTrendz_edheqz.mp4" width="320" height="200" controls preload></video>
 ## Watch Sample
-Link => "https://res.cloudinary.com/dwdkfnsrg/video/upload/v1688786588/nxtTrendz_edheqz.mp4"
+Link => "https://res.cloudinary.com/dwdkfnsrg/video/upload/v1688786588/nxtTrendz_edheqz.mp4".
+
 Project Description: E-Commerce MERN Stack App
 
 Introduction:
