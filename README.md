@@ -1,4 +1,4 @@
-### Nxt Trendz 
+# Nxt Trendz 
 
 <video src="https://res.cloudinary.com/dwdkfnsrg/video/upload/v1688786588/nxtTrendz_edheqz.mp4" width="320" height="200" controls preload></video>
 ## Watch Sample
